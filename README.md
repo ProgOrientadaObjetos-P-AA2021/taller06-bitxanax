@@ -1,4 +1,5 @@
 # Taller 6 (Laboratorio): 
+## Joel Sebastian Romero Cañar
 ### Elaboración de ejercicios de Estructuras de datos en Programación Orientada a Objetos: Estructuras estáticas.
 
 #### Problemática
